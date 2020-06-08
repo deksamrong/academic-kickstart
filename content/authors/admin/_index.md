@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Jarkkapan Boonmak
 
 # Username (this should match the folder name)
 authors:
@@ -14,7 +14,7 @@ role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name:  University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -53,7 +53,7 @@ social:
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/deksamrong
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -61,7 +61,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "pladao002@hotmail.com"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
